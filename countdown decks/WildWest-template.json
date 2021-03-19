@@ -1,0 +1,12 @@
+{
+  "name": "{{name}}",
+  "flags": {
+    "swade": {
+      "cardValue": {{cardValue}},
+      "suitValue": {{suitValue}},
+      "isJoker": {{isJoker}}
+    }
+  },
+  "content": "{{content}}",
+  "img": "modules/card-decks/WildWest-VTT/{{img}}.png"
+}

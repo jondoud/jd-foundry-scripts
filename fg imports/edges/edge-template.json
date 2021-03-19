@@ -1,0 +1,14 @@
+{
+    "name": "{{Name}}",
+    "type": "edge",
+    "data": {
+        "description": "{{Benefit}}",
+        "notes": "{{Source}}",
+        "additionalStats": [],
+        "isArcaneBackground": false,
+        "requirements": {
+            "value": "{{Requirements}}"
+        }
+    },
+    "img": "systems\/swade\/assets\/icons\/edge.svg"
+}

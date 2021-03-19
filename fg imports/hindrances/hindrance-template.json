@@ -1,0 +1,11 @@
+{
+    "name": "{{Name}}",
+    "type": "hindrance",
+    "data": {
+        "description": "{{Benefit}}",
+        "notes": "{{Source}}",
+        "additionalStats": {},
+        "major": {{Major}}
+    },
+    "img": "systems\/swade\/assets\/icons\/hindrance.svg"
+}
